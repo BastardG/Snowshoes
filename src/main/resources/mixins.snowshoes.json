@@ -1,4 +1,5 @@
 {
+  "required": true,
   "minVersion": "0.7.11",
   "compatibilityLevel": "JAVA_17",
   "package": "ru.bastard.snowshoes.mixin",
