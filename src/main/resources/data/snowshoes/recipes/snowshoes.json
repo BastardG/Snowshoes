@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "#": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "$": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "L#S",
+    "#$#",
+    "##L"
+  ],
+  "result": {
+    "item": "snowshoes:snowshoes"
+  }
+}

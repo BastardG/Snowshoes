@@ -1,0 +1,11 @@
+{
+  "minVersion": "0.7.11",
+  "compatibilityLevel": "JAVA_17",
+  "package": "ru.bastard.snowshoes.mixin",
+  "refmap": "mixins.snowshoes.refmap.json",
+  "mixins": [
+    "PowderSnowBlockMixin"
+  ],
+  "client": [],
+  "server": []
+}
